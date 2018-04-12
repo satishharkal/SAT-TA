@@ -63,12 +63,12 @@ if(readCookie("CurrentLanguage") === "English")
 {
   var Hotel = new Array ( );
    Hotel = Shop_en ;
-   document.getElementById("HotelDesc").innerHTML = "InMotion Entertainment is the largest entertainment and electronics airport retailer in the U.S. With a unique blend of cutting-edge electronics, accessories, music, movies and rental services, we guarantee to make your next trip more enjoyable. InMotion: Just press play.";
+   document.getElementById("HotelDesc").innerHTML = "";
 }else if(readCookie("CurrentLanguage") === "Spanish")
 {
    var Hotel = new Array ( );
    Hotel = Shop_sp ;
-    document.getElementById("HotelDesc").innerHTML = "InMotion Entertainment es el minorista de aeropuertos de entretenimiento y electrónica más grande de los EE. UU. Con una combinación única de electrónica de vanguardia, accesorios, música, películas y servicios de alquiler, le garantizamos que su próximo viaje sea más agradable. InMotion: solo presiona play.";
+    document.getElementById("HotelDesc").innerHTML = "";
 }
 
 
@@ -98,6 +98,7 @@ for (var i = 0; i< Hotel.length; i++) {
 
               var HotelName = $(this).text()    
               getHodetlDetails(HotelName);
+     document.getElementById("mapBtn").style.visibility = "visible";
 
             });
 
