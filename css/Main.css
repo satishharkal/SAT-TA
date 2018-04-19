@@ -69,8 +69,8 @@ nav .nav-language button {
 .main-content .main-menu-matrix {
 	width: 100%;
 	text-align: center;
-	padding-top: 150px;
-	padding-bottom: 100px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 .main-menu-matrix table {
@@ -221,6 +221,9 @@ max-width: 1000px;
 
 .date-time{
 	float: right !important;margin-top: 20px;float: right;text-align: center;font-size: 30px;color: black;
+}
+.date-time p{
+	margin-bottom: 0;
 }
 
 a.button {
