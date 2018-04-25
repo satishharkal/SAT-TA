@@ -347,3 +347,8 @@ a.button {
     padding: 15px;
     margin-bottom: 25px;
 }
+.home-text{
+	font-size: 40px;
+	padding-left: 10px;
+	color: white;
+}
