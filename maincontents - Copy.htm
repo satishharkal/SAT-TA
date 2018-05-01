@@ -8,10 +8,10 @@
     <script language="JavaScript" type="text/javascript" src="Scripts/BaseEvent.js"></script>
     <script language="JavaScript" type="text/javascript" src="Scripts/LogConsole.js"></script>
     <script language="JavaScript" type="text/javascript" src="Scripts/Language.js"></script>
-    <script language="JavaScript" type="text/javascript" src="Scripts/custom.js"></script>
-    <script type="text/javascript" src="Scripts/jquery-3.3.1.min.js"></script>
-    <script language="JavaScript" type="text/javascript" src="maincontents.js"></script>
-    <script src="boots/js/bootstrap.min.js"></script> 
+    <!--<script language="JavaScript" type="text/javascript" src="Scripts/custom.js"></script>
+    <script type="text/javascript" src="Scripts/jquery-3.3.1.min.js"></script>-->
+    <!--<script language="JavaScript" type="text/javascript" src="maincontents.js"></script>-->
+    <!--<script src="boots/js/bootstrap.min.js"></script> -->
     <link rel="stylesheet" href="boots/css/bootstrap.min.css">
 
     <link href="css/Main.css" rel="stylesheet" type="text/css"/>
@@ -20,9 +20,14 @@
 
 <body  onbeforeunload="JSUnload()" ondragstart="return false;" ondrop="return false;" style="-ms-user-select:none;" oncontextmenu="return false;">
 
-
+<img src="screen.jpeg" width="1080">
 
 <script type="application/javascript">
+
+function OnUserApproached()
+{
+    location.href = "main.html";
+}
     if(readCookie("CurrentLanguage") === "English")
     {
         LanguageChange('english');
