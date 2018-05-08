@@ -3,7 +3,7 @@
 //-----------------------------------------------------
 
 function redirect(){
-    window.location.href = "../../main.htm";
+    window.location.href = "../../maincontents.htm";
 }
 var initial=setTimeout(redirect,60000);
 
@@ -42,7 +42,7 @@ location.reload();
 var Hotel_en = new Array ( );
 Hotel_en[0] = new Array ( "Auntie Anne's/Cinnabon","The fresh, gooey taste of a Cinnabon cinnamon roll accompanied with a deliciously perfected Auntie Anne’s pretzel offers SAT passengers a sweet treat on the go.", "images/2.png" , "images/offers/Auntie_Anne/1.png");
 Hotel_en[1] = new Array ( "Dunkin' Donuts","More than 2.7 million Americans a day can’t be wrong! Offering more than just donuts, the No. 1 U.S. retailer of coffee has been keeping America running since 1950. Let Dunkin’ Donuts give you that kick to your destination.", "images/5.png");
-Hotel_en[2] = new Array ( "Famous Famiglia Pizzeria","It’s the pizza New Yorkers vote No. 1 and the offcial pie of the New York Yankees and Madison Square Garden.  Famous famiglia offers traditional Italian at its best, including pizza, strombolis, garlic knots, salads, and pastas! Buon appetito!", "images/6.png");
+Hotel_en[2] = new Array ( "Famous Famiglia Pizzeria","It’s the pizza New Yorkers vote No. 1 and the offcial pie of the New York Yankees and Madison Square Garden. Famous Famiglia offers traditional Italian at its best, including pasta, calzones, heroes and salads. Buon appetito!", "images/6.png");
 Hotel_en[3] = new Array ( "Fruteria","From fruit-infused cocktails to Mexican tapas, Fruteria offers a variety of items while providing the experience of Mexico’s beautiful and colorful fruit stands.", "images/7.png", "images/offers/La Fruteria/La Fruteria-1.png" );
 Hotel_en[4] = new Array ( "Good Fellows","", "images/Good Fellows.jpeg");
 Hotel_en[5] = new Array ( "Gervin's","Traveling got you stressed? Chill at Gervin’s Sports Bar. Featuring memorabilia from George “Ice Man” Gervin, catch up on the Spurs while savoring Base Line nachos, the Slam Dunk turkey sandwich or the Nothing But Net club sandwich. Game on!", "images/9.png");
