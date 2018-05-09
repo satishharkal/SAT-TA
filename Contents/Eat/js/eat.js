@@ -51,10 +51,9 @@ Hotel_en[7] = new Array ( "La Tapenade","Take your taste buds on a trip with a M
 Hotel_en[8] = new Array ( "Mission City Ice House","Have time to spare? Then cool your jets and grab a seat at our bar. Relax and enjoy a wide variety of locally brewed beers.", "images/12.png");
 Hotel_en[9] = new Array ( "Natalie's Candy Jar","Giant lollipops mark the spot that offers vintage candies, deluxe chocolates and every gummy variety under the rainbow, and that just scratches the sugar-coated surface.", "images/13.png");
 Hotel_en[10] = new Array ( "Raising Cane's Chicken Fingers","We only have one love: chicken fingers. Add Texas Toast, our specialty sauce and crinkle cut fries and you have a made-to-order meal to cluck about..", "images/14.png", "images/offers/Raising Cane's/Raising Cane's-1.png" );
-Hotel_en[11] = new Array ( "R Sala Bebida Botana Bar","R Sala Bebida Botana Bar goers passengers a relaxed lounge, serving light fare with a distinctive San Antonio Mex-Chic flavor, while Starbucks goers the world’s most recognizable brand of coffee — all to create a destination to relax and recharge.", "images/15.png", "images/offers/R-Salsa/R-Salsa-1.png" );
-Hotel_en[12] = new Array ( "SA Express News","", "images/Stars of San Antonio.jpeg");
-Hotel_en[13] = new Array ( "Steak 'n Shake","Proudly serving America’s best, freshest, and tastiest burgers and shakes for more than 75 years. Add a side of fries and you’ll surely satisfy your hunger.", "images/19.png", "images/offers/Steak n' Shake/Steak n' Shake-1.png" );
-Hotel_en[14] = new Array ( "Vino Volo","Boutique retail meets lounging in style at Vino Volo, where great wines from across the globe are sold to travelers by glass or by bottle, en route or pre-flight. Travel the world, glass by glass!", "images/20.png", "images/offers/Vino Volo/Vino Volo-1.png" );
+Hotel_en[11] = new Array ( "SA Express News","", "images/Stars of San Antonio.jpeg");
+Hotel_en[12] = new Array ( "Steak 'n Shake","Proudly serving America’s best, freshest, and tastiest burgers and shakes for more than 75 years. Add a side of fries and you’ll surely satisfy your hunger.", "images/19.png", "images/offers/Steak n' Shake/Steak n' Shake-1.png" );
+Hotel_en[13] = new Array ( "Vino Volo","Boutique retail meets lounging in style at Vino Volo, where great wines from across the globe are sold to travelers by glass or by bottle, en route or pre-flight. Travel the world, glass by glass!", "images/20.png", "images/offers/Vino Volo/Vino Volo-1.png" );
 
 
 var Hotel_sp = new Array ( );
@@ -70,10 +69,9 @@ Hotel_sp[7] = new Array ( "La Tapenade","Disfrute de sus papilas gustativas en u
 Hotel_sp[8] = new Array ( "Mission City Ice House","Tienes tiempo de sobra? Luego refresque sus jets y tome asiento en nuestro bar. Relájese y disfrute de una amplia variedad de cervezas locales.", "images/12.png");
 Hotel_sp[9] = new Array ( "Natalie's Candy Jar","Las piruletas gigantes marcan el lugar que ofrece dulces vintage, chocolates de lujo y cada variedad gomosa bajo el arco iris, y que solo araña la superficie recubierta de azúcar.", "images/13.png");
 Hotel_sp[10] = new Array ( "Raising Cane's Chicken Fingers","Solo tenemos un amor: dedos de pollo. Agregue Texas Toast, nuestra especialidad de salsa y papas fritas rizadas  y usted tendrá una comida hecha por encargo para cacarear.", "images/14.png", "images/offers/Raising Cane's/Raising Cane's-1.png" );
-Hotel_sp[11] = new Array ( "R Sala Bebida Botana Bar","R Sala Bebida Botana Bar ofrece a los pasajeros un lounge relajado, que sirve comida ligera con un distintivo sabor Mex-Chic de San Antonio, mientras que Starbucks disfruta de la marca de café más reconocida del mundo, todo para crear un destino para relajarse y recargar energías.", "images/15.png", "images/offers/R-Salsa/R-Salsa-1.png" );
-Hotel_sp[12] = new Array ( "SA Express News","", "images/Stars of San Antonio.jpeg");
-Hotel_sp[13] = new Array ( "Steak 'n Shake","Orgullosamente sirviendo las mejores y más frescas hamburguesas y batidos de los Estados Unidos durante más de 75 años. Agregue un lado de las papas fritas y seguramente saciará su hambre.", "images/19.png", "images/offers/Steak n' Shake/Steak n' Shake-1.png" );
-Hotel_sp[14] = new Array ( "Vino Volo","Boutique minor se encuentra con estilo en Vino Volo, donde los grandes vinos de todo el mundo se venden a los viajeros por copa o en botella, en ruta o antes del vuelo. Viaja por el mundo, vidrio por vidrio! ", "images/20.png", "images/offers/Vino Volo/Vino Volo-1.png" );
+Hotel_sp[11] = new Array ( "SA Express News","", "images/Stars of San Antonio.jpeg");
+Hotel_sp[12] = new Array ( "Steak 'n Shake","Orgullosamente sirviendo las mejores y más frescas hamburguesas y batidos de los Estados Unidos durante más de 75 años. Agregue un lado de las papas fritas y seguramente saciará su hambre.", "images/19.png", "images/offers/Steak n' Shake/Steak n' Shake-1.png" );
+Hotel_sp[13] = new Array ( "Vino Volo","Boutique minor se encuentra con estilo en Vino Volo, donde los grandes vinos de todo el mundo se venden a los viajeros por copa o en botella, en ruta o antes del vuelo. Viaja por el mundo, vidrio por vidrio! ", "images/20.png", "images/offers/Vino Volo/Vino Volo-1.png" );
 
 
 
