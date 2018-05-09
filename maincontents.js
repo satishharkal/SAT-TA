@@ -253,12 +253,3 @@ function getGetOrdinal(n) {
     return n+'<sup>'+(s[(v-20)%10]||s[v]||s[0])+'</sup>';
 }
 
-function redirectToSS(){
-    window.location.href = "maincontents.htm";
-}
-var tempTime=setTimeout(redirectToSS,60000);
-
-$(document).click(function(event) {
-    clearTimeout( tempTime );
-    tempTime=setTimeout(redirectToSS,240000);
-});
