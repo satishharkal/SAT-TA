@@ -54,6 +54,7 @@ Hotel_en[10] = new Array ( "Raising Cane's Chicken Fingers","We only have one lo
 Hotel_en[11] = new Array ( "SA Express News","", "images/Stars of San Antonio.jpeg");
 Hotel_en[12] = new Array ( "Steak 'n Shake","Proudly serving America’s best, freshest, and tastiest burgers and shakes for more than 75 years. Add a side of fries and you’ll surely satisfy your hunger.", "images/19.png", "images/offers/Steak n' Shake/Steak n' Shake-1.png" );
 Hotel_en[13] = new Array ( "Vino Volo","Boutique retail meets lounging in style at Vino Volo, where great wines from across the globe are sold to travelers by glass or by bottle, en route or pre-flight. Travel the world, glass by glass!", "images/20.png", "images/offers/Vino Volo/Vino Volo-1.png" );
+Hotel_en[14] = new Array ( "Starbucks","Handcrafted beverages and a name you can trust – it doesn’t get any cozier than that. Curl up with a favorite brew or Tazo tea creation today … and don’t forget the biscotti..", "images/18.png", "images/offers/Starbucks/Starbucks-1.png" );
 
 
 var Hotel_sp = new Array ( );
@@ -72,6 +73,7 @@ Hotel_sp[10] = new Array ( "Raising Cane's Chicken Fingers","Solo tenemos un amo
 Hotel_sp[11] = new Array ( "SA Express News","", "images/Stars of San Antonio.jpeg");
 Hotel_sp[12] = new Array ( "Steak 'n Shake","Orgullosamente sirviendo las mejores y más frescas hamburguesas y batidos de los Estados Unidos durante más de 75 años. Agregue un lado de las papas fritas y seguramente saciará su hambre.", "images/19.png", "images/offers/Steak n' Shake/Steak n' Shake-1.png" );
 Hotel_sp[13] = new Array ( "Vino Volo","Boutique minor se encuentra con estilo en Vino Volo, donde los grandes vinos de todo el mundo se venden a los viajeros por copa o en botella, en ruta o antes del vuelo. Viaja por el mundo, vidrio por vidrio! ", "images/20.png", "images/offers/Vino Volo/Vino Volo-1.png" );
+Hotel_sp[14] = new Array ( "Starbucks","Bebidas artesanales y un nombre en el que puede confiar: no hay nada más acogedor que eso. Acurrúcate con una bebida favorita o una creación de té Tazo hoy ... y no te olvides de los biscotti.", "images/18.png", "images/offers/Starbucks/Starbucks-1.png" );
 
 
 
